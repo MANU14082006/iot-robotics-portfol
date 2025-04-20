@@ -1,0 +1,72 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Manukrishna M - IoT & Robotics Projects</title>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+    header { background: #2d2d2d; color: #fff; padding: 20px 0; text-align: center; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+    h1, h2, h3 { color: #2d2d2d; }
+    .projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+    .card { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    footer { background: #2d2d2d; color: #fff; text-align: center; padding: 20px 0; }
+    a { color: #00bcd4; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Manukrishna M's IoT & Robotics Projects</h1>
+    <p>Innovative Solutions for Students and Enthusiasts</p>
+  </header>  <section>
+    <h2>About Me</h2>
+    <p>I'm <strong>Manukrishna M</strong>, an IoT developer, robotics enthusiast, and mobile photographer. I specialize in building smart, real-world projects using Arduino, ESP8266, GSM, GPS, sensors, and more. I help students and makers bring their ideas to life with practical, hands-on solutions.</p>
+  </section>  <section>
+    <h2>What I Offer</h2>
+    <ul>
+      <li><strong>Ready-Made Projects</strong>: Fully assembled and programmed systems.</li>
+      <li><strong>DIY Kits</strong>: Beginner-friendly kits with all parts and guides.</li>
+      <li><strong>Custom Builds</strong>: Bring your own idea, and I’ll make it.</li>
+      <li><strong>Support & Workshops</strong>: Online/offline guidance and training.</li>
+    </ul>
+  </section>  <section>
+    <h2>Featured Projects</h2>
+    <div class="projects">
+      <div class="card">
+        <h3>Intelligent Helmet</h3>
+        <p>Helmet with alcohol detection, speed alert, accident alert, and wireless control.</p>
+      </div>
+      <div class="card">
+        <h3>Emergency Alert System</h3>
+        <p>Flex sensor triggers GPS location SMS and call using SIM800L module.</p>
+      </div>
+      <div class="card">
+        <h3>Welcome Robot</h3>
+        <p>Ultrasonic-based human detection with voice greeting and servo movement.</p>
+      </div>
+      <div class="card">
+        <h3>WiFi Device Control</h3>
+        <p>Control appliances with your phone over WiFi using ESP8266.</p>
+      </div>
+    </div>
+  </section>  <section>
+    <h2>Why Choose Me?</h2>
+    <ul>
+      <li>Affordable and student-friendly pricing</li>
+      <li>Customizable features for your needs</li>
+      <li>Reliable, tested components</li>
+      <li>Step-by-step documentation</li>
+      <li>Fast delivery and support anywhere in India</li>
+    </ul>
+  </section>  <section>
+    <h2>Contact Me</h2>
+    <p><strong>Instagram:</strong> <a href="https://instagram.com/__.manuuuuuu" target="_blank">@__.manuuuuuu</a></p>
+    <p><strong>WhatsApp/Call:</strong> +91-XXXXXXXXXX</p>
+    <p><strong>Email:</strong> manukrishnan080820@gmail.com</p>
+    <p><strong>Location:</strong> Your City, India</p>
+  </section>  <footer>
+    <p>&copy; 2025 Manukrishna M. All rights reserved.</p>
+  </footer>
+</body>
+</html>
